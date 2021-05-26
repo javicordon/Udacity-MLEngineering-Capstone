@@ -1,0 +1,13 @@
+
+#Estensions
+.ipynb_checkpoints
+~*
+*.doc
+*.docx
+
+
+#Folders
+/backup_files/
+/dataset/
+/kaggle_submission/
+__pycache__/
