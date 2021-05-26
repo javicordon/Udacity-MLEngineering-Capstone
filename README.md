@@ -3,9 +3,9 @@
 ## Udacity+Arvato: Identify Customer Segments
 
 ### Installation
-This Jupyter notebook has been tested with python 3.8 and require at least
-the following libraries stated under the requirements file.
-The main notebook is: ProjectWorkbook.ipynb
+This Jupyter notebook has been tested with python 3.8 and requires the libraries
+stated under the requirements file.
+The main notebook is: **ProjectWorkbook.ipynb**
 
 ### Description
 The company Arvato Financial Services, a Bertelsmann subsidiary, connected
